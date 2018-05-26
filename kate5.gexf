@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+	<graph defaultedgetype="directed">
+		<attributes class="node">
+			<attribute id="0" title="first_name" type="string" />
+			<attribute id="1" title="last_name" type="string" />
+			<attribute id="2" title="nickname" type="string" />
+			<attribute id="3" title="screen_name" type="string" />
+			<attribute id="4" title="sex" type="integer" />
+			<attribute id="5" title="photo_50" type="string" />
+			<attribute id="6" title="relation" type="integer" />
+			<attribute id="7" title="country" type="integer" />
+			<attribute id="8" title="city" type="integer" />
+			<attribute id="9" title="bdate" type="string" />
+			<attribute id="10" title="timezone" type="integer" />
+		</attributes>
+		<nodes>
+			<node id="19189619" label="Natalya Shakhalieva">
+				<attvalues>
+					<attvalue for="0" value="Natalya" />
+					<attvalue for="1" value="Shakhalieva" />
+					<attvalue for="2" value="uzhe ne" />
+					<attvalue for="3" value="natalysha89" />
+					<attvalue for="4" value="1" />
+					<attvalue for="5" value="https://pp.userapi.com/c845020/v845020273/3b868/L3PivPH9WQg.jpg" />
+					<attvalue for="7" value="1" />
+					<attvalue for="8" value="1" />
+					<attvalue for="9" value="8.2.1989" />
+				</attvalues>
+			</node>
+			<node id="60181601" label="Alisa Imamutdinova">
+				<attvalues>
+					<attvalue for="0" value="Alisa" />
+					<attvalue for="1" value="Imamutdinova" />
+					<attvalue for="2" value="" />
+					<attvalue for="3" value="id60181601" />
+					<attvalue for="4" value="1" />
+					<attvalue for="5" value="https://pp.userapi.com/c837534/v837534601/3cf73/zwszZFqdODs.jpg" />
+					<attvalue for="6" value="4" />
+					<attvalue for="7" value="1" />
+					<attvalue for="8" value="1" />
+					<attvalue for="9" value="23.8.1999" />
+				</attvalues>
+			</node>
+			<node id="114246822" label="Sofya Pavlinina">
+				<attvalues>
+					<attvalue for="0" value="Sofya" />
+					<attvalue for="1" value="Pavlinina" />
+					<attvalue for="2" value="" />
+					<attvalue for="3" value="saweiren" />
+					<attvalue for="4" value="1" />
+					<attvalue for="5" value="https://pp.userapi.com/c847021/v847021891/252f7/7aKundBZf5M.jpg" />
+					<attvalue for="6" value="0" />
+					<attvalue for="7" value="1" />
+					<attvalue for="8" value="0" />
+					<attvalue for="9" value="25.9" />
+				</attvalues>
+			</node>
+			<node id="163605178" label="Ekaterina Shakhalieva">
+				<attvalues>
+					<attvalue for="0" value="Ekaterina" />
+					<attvalue for="1" value="Shakhalieva" />
+					<attvalue for="2" value="" />
+					<attvalue for="3" value="katena121012" />
+					<attvalue for="4" value="1" />
+					<attvalue for="5" value="https://sun1-18.userapi.com/c840631/v840631187/70a12/Zz3cKu9HZxI.jpg" />
+					<attvalue for="6" value="0" />
+					<attvalue for="7" value="32" />
+					<attvalue for="8" value="0" />
+					<attvalue for="9" value="10.12" />
+				</attvalues>
+			</node>
+			<node id="163666869" label="Masha Kireeva">
+				<attvalues>
+					<attvalue for="0" value="Masha" />
+					<attvalue for="1" value="Kireeva" />
+					<attvalue for="2" value="" />
+					<attvalue for="3" value="id163666869" />
+					<attvalue for="4" value="1" />
+					<attvalue for="5" value="https://pp.userapi.com/c824203/v824203505/125309/uEB46-a-E7g.jpg" />
+					<attvalue for="6" value="0" />
+					<attvalue for="7" value="1" />
+					<attvalue for="8" value="1" />
+					<attvalue for="9" value="9.9" />
+				</attvalues>
+			</node>
+			<node id="175565343" label="Diana Grigoryan">
+				<attvalues>
+					<attvalue for="0" value="Diana" />
+					<attvalue for="1" value="Grigoryan" />
+					<attvalue for="2" value="" />
+					<attvalue for="3" value="gdiana_astrid" />
+					<attvalue for="4" value="1" />
+					<attvalue for="5" value="https://pp.userapi.com/c637724/v637724993/6d99f/bO5IQfCAc40.jpg" />
+					<attvalue for="6" value="0" />
+					<attvalue for="7" value="1" />
+					<attvalue for="8" value="1" />
+					<attvalue for="9" value="22.11" />
+				</attvalues>
+			</node>
+			<node id="176832680" label="Anastasia Shuralyova">
+				<attvalues>
+					<attvalue for="0" value="Anastasia" />
+					<attvalue for="1" value="Shuralyova" />
+					<attvalue for="2" value="" />
+					<attvalue for="3" value="klintremlot" />
+					<attvalue for="4" value="1" />
+					<attvalue for="5" value="https://pp.userapi.com/c840238/v840238453/52da2/YEwC2Q-4RWc.jpg" />
+					<attvalue for="6" value="0" />
+					<attvalue for="7" value="1" />
+					<attvalue for="8" value="0" />
+				</attvalues>
+			</node>
+			<node id="191083120" label="Leonid Russkikh">
+				<attvalues>
+					<attvalue for="0" value="Leonid" />
+					<attvalue for="1" value="Russkikh" />
+					<attvalue for="2" value="" />
+					<attvalue for="3" value="l.russkikh9" />
+					<attvalue for="4" value="2" />
+					<attvalue for="5" value="https://vk.com/images/camera_50.png" />
+					<attvalue for="7" value="1" />
+					<attvalue for="8" value="1" />
+				</attvalues>
+			</node>
+			<node id="194181647" label="Svetlana Shakhalieva">
+				<attvalues>
+					<attvalue for="0" value="Svetlana" />
+					<attvalue for="1" value="Shakhalieva" />
+					<attvalue for="2" value="" />
+					<attvalue for="3" value="id194181647" />
+					<attvalue for="4" value="1" />
+					<attvalue for="5" value="https://pp.userapi.com/c620217/v620217647/5e30/k_gtRXXnOAo.jpg" />
+					<attvalue for="6" value="0" />
+					<attvalue for="7" value="1" />
+					<attvalue for="8" value="1" />
+					<attvalue for="9" value="17.11" />
+				</attvalues>
+			</node>
+			<node id="202119769" label="Ira Sutyagina">
+				<attvalues>
+					<attvalue for="0" value="Ira" />
+					<attvalue for="1" value="Sutyagina" />
+					<attvalue for="2" value="" />
+					<attvalue for="3" value="irr_23" />
+					<attvalue for="4" value="1" />
+					<attvalue for="5" value="https://pp.userapi.com/c834302/v834302982/1100cb/7Ya8d_uqRFU.jpg" />
+					<attvalue for="7" value="0" />
+					<attvalue for="8" value="0" />
+					<attvalue for="9" value="23.2" />
+				</attvalues>
+			</node>
+			<node id="215011464" label="DELETED ">
+				<attvalues>
+					<attvalue for="0" value="DELETED" />
+					<attvalue for="1" value="" />
+					<attvalue for="4" value="1" />
+					<attvalue for="5" value="https://vk.com/images/deactivated_50.png" />
+				</attvalues>
+			</node>
+			<node id="224605262" label="Kirill Ignatyuk">
+				<attvalues>
+					<attvalue for="0" value="Kirill" />
+					<attvalue for="1" value="Ignatyuk" />
+					<attvalue for="2" value="" />
+					<attvalue for="3" value="kignatyuk" />
+					<attvalue for="4" value="2" />
+					<attvalue for="5" value="https://pp.userapi.com/c623900/v623900129/78d5c/US3PhAOZJe0.jpg" />
+					<attvalue for="7" value="1" />
+					<attvalue for="8" value="1" />
+					<attvalue for="9" value="30.4.1997" />
+				</attvalues>
+			</node>
+			<node id="242350890" label="Masha Kolarzh">
+				<attvalues>
+					<attvalue for="0" value="Masha" />
+					<attvalue for="1" value="Kolarzh" />
+					<attvalue for="4" value="1" />
+					<attvalue for="5" value="https://vk.com/images/deactivated_50.png" />
+				</attvalues>
+			</node>
+			<node id="245998002" label="Yury Dmitriev">
+				<attvalues>
+					<attvalue for="0" value="Yury" />
+					<attvalue for="1" value="Dmitriev" />
+					<attvalue for="2" value="" />
+					<attvalue for="3" value="y.zemlyanichkin0" />
+					<attvalue for="4" value="2" />
+					<attvalue for="5" value="https://pp.userapi.com/c846324/v846324459/180d5/eWdXGNZUZ5g.jpg" />
+					<attvalue for="6" value="0" />
+					<attvalue for="7" value="1" />
+					<attvalue for="8" value="1" />
+					<attvalue for="9" value="26.9.1995" />
+				</attvalues>
+			</node>
+			<node id="254834647" label="Maria Kan">
+				<attvalues>
+					<attvalue for="0" value="Maria" />
+					<attvalue for="1" value="Kan" />
+					<attvalue for="2" value="" />
+					<attvalue for="3" value="capralmariia" />
+					<attvalue for="4" value="1" />
+					<attvalue for="5" value="https://pp.userapi.com/c831409/v831409538/f5850/EaHVYxkfHv4.jpg" />
+					<attvalue for="7" value="1" />
+					<attvalue for="8" value="1" />
+					<attvalue for="9" value="30.4" />
+				</attvalues>
+			</node>
+			<node id="297206414" label="Korpus Smerti">
+				<attvalues>
+					<attvalue for="0" value="Korpus" />
+					<attvalue for="1" value="Smerti" />
+					<attvalue for="4" value="2" />
+					<attvalue for="5" value="https://vk.com/images/deactivated_50.png" />
+				</attvalues>
+			</node>
+			<node id="365956539" label="Marina Abrosimova">
+				<attvalues>
+					<attvalue for="0" value="Marina" />
+					<attvalue for="1" value="Abrosimova" />
+					<attvalue for="2" value="" />
+					<attvalue for="3" value="id365956539" />
+					<attvalue for="4" value="1" />
+					<attvalue for="5" value="https://vk.com/images/camera_50.png" />
+					<attvalue for="6" value="0" />
+					<attvalue for="7" value="0" />
+					<attvalue for="8" value="0" />
+				</attvalues>
+			</node>
+			<node id="390558241" label="Maria Blokhina">
+				<attvalues>
+					<attvalue for="0" value="Maria" />
+					<attvalue for="1" value="Blokhina" />
+					<attvalue for="2" value="" />
+					<attvalue for="3" value="id390558241" />
+					<attvalue for="4" value="1" />
+					<attvalue for="5" value="https://pp.userapi.com/c638231/v638231241/5d69/yni_Qt6HACY.jpg" />
+					<attvalue for="6" value="4" />
+					<attvalue for="7" value="65" />
+					<attvalue for="8" value="219" />
+					<attvalue for="9" value="2.4.1988" />
+				</attvalues>
+			</node>
+		</nodes>
+		<edges>
+			<edge id="1" source="19189619" target="163605178" />
+			<edge id="2" source="19189619" target="194181647" />
+			<edge id="3" source="19189619" target="390558241" />
+			<edge id="4" source="60181601" target="163605178" />
+			<edge id="5" source="114246822" target="163605178" />
+			<edge id="6" source="163605178" target="60181601" />
+			<edge id="7" source="163605178" target="114246822" />
+			<edge id="8" source="163605178" target="163666869" />
+			<edge id="9" source="163605178" target="175565343" />
+			<edge id="10" source="163605178" target="176832680" />
+			<edge id="11" source="163605178" target="194181647" />
+			<edge id="12" source="163605178" target="215011464" />
+			<edge id="13" source="163605178" target="224605262" />
+			<edge id="14" source="163605178" target="245998002" />
+			<edge id="15" source="163666869" target="163605178" />
+			<edge id="16" source="163666869" target="176832680" />
+			<edge id="17" source="163666869" target="224605262" />
+			<edge id="18" source="175565343" target="163605178" />
+			<edge id="19" source="176832680" target="163605178" />
+			<edge id="20" source="176832680" target="163666869" />
+			<edge id="21" source="194181647" target="19189619" />
+			<edge id="22" source="194181647" target="163605178" />
+			<edge id="23" source="194181647" target="245998002" />
+			<edge id="24" source="194181647" target="390558241" />
+			<edge id="25" source="224605262" target="163605178" />
+			<edge id="26" source="224605262" target="163666869" />
+			<edge id="27" source="245998002" target="163605178" />
+			<edge id="28" source="245998002" target="194181647" />
+			<edge id="29" source="390558241" target="19189619" />
+			<edge id="30" source="390558241" target="194181647" />
+		</edges>
+	</graph>
+</gexf>
